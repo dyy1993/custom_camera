@@ -1,0 +1,34 @@
+PODS:
+  - custom_camera (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - image_picker (0.0.1):
+    - Flutter
+  - webview_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - custom_camera (from `.symlinks/plugins/custom_camera/ios`)
+  - Flutter (from `Flutter`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - webview_flutter (from `.symlinks/plugins/webview_flutter/ios`)
+
+EXTERNAL SOURCES:
+  custom_camera:
+    :path: ".symlinks/plugins/custom_camera/ios"
+  Flutter:
+    :path: Flutter
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  webview_flutter:
+    :path: ".symlinks/plugins/webview_flutter/ios"
+
+SPEC CHECKSUMS:
+  custom_camera: 166bce6a99e1e580daab295a9515d2a5f22a4a5c
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  image_picker: 66aa71bc96850a90590a35d4c4a2907b0d823109
+  webview_flutter: d2b4d6c66968ad042ad94cbb791f5b72b4678a96
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.9.3
